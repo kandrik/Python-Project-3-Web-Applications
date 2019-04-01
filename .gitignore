@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+11_env/
+*.sqlite3
+
 # C extensions
 *.so
 
